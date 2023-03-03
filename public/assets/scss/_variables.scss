@@ -18,34 +18,34 @@ $darkslategray: #2e383e;
 $dodger-blue: #3498db;
 
 $colors: (
-  blue: $blue,
-  indigo: $indigo,
-  purple: $purple,
-  pink: $pink,
-  red: $red,
-  orange: $orange,
-  yellow: $yellow,
-  green: $green,
-  teal: $teal,
-  cyan: $cyan,
-  white: $white,
-  gray: #434a54,
-  gray-light: #aab2bd,
-  gray-lighter: #e8eff4,
-  gray-lightest: #e6e9ed,
-  gray-dark: #0f1531,
-  black: #000000
+    blue: $blue,
+    indigo: $indigo,
+    purple: $purple,
+    pink: $pink,
+    red: $red,
+    orange: $orange,
+    yellow: $yellow,
+    green: $green,
+    teal: $teal,
+    cyan: $cyan,
+    white: $white,
+    gray: #434a54,
+    gray-light: #aab2bd,
+    gray-lighter: #e8eff4,
+    gray-lightest: #e6e9ed,
+    gray-dark: #0f1531,
+    black: #000000,
 );
 
 $theme-colors: (
-  primary: #032a63,
-  secondary: #3a3a3a,
-  success: #3e8177,
-  info: #4d7cff,
-  warning: #f5a623,
-  danger: #d1011c,
-  light: #f8f8f8,
-  dark: #000000
+    primary: #8b0000,
+    secondary: #3a3a3a,
+    success: #3e8177,
+    info: #4d7cff,
+    warning: #f5a623,
+    danger: #d1011c,
+    light: #f8f8f8,
+    dark: #000000,
 );
 
 // $theme-gradient-colors: (
@@ -244,11 +244,11 @@ $nav-tabs-border-color: #ebedf2;
 $nav-tabs-link-bg: #f6f8fa;
 $nav-tabs-link-color: #000000;
 $nav-tabs-link-hover-border-color: $nav-tabs-border-color $nav-tabs-border-color
-  $nav-tabs-border-color;
+    $nav-tabs-border-color;
 $nav-tabs-link-active-color: $body-color;
 $nav-tabs-link-active-bg: $white;
 $nav-tabs-link-active-border-color: $nav-tabs-border-color
-  $nav-tabs-border-color $nav-tabs-link-active-bg;
+    $nav-tabs-border-color $nav-tabs-link-active-bg;
 $nav-pills-custom-bg: #fcfcfd;
 ////////   TABS VARIABLES /////////
 
@@ -258,7 +258,7 @@ $toggle-switch-bg: #e9ecef;
 
 // navbar variables
 
-$navbar-bg: #032a63;
+$navbar-bg: #8b0000;
 $navbar-bg-color: rgb(38, 238, 20);
 $navbar-width-lg: 1106px;
 $navbar-height: 140.7px;
